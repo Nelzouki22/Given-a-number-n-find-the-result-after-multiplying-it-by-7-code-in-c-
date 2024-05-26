@@ -1,0 +1,1 @@
+# Given a number n, find the result after multiplying it by 7 code in c#
