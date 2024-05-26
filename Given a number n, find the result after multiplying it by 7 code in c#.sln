@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Given a number n, find the result after multiplying it by 7 code in c#", "Given a number n, find the result after multiplying it by 7 code in c#.csproj", "{58C3C386-478A-45BE-A6CD-C0D8A9F2A166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C3C386-478A-45BE-A6CD-C0D8A9F2A166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C3C386-478A-45BE-A6CD-C0D8A9F2A166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C3C386-478A-45BE-A6CD-C0D8A9F2A166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C3C386-478A-45BE-A6CD-C0D8A9F2A166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C73FB6-93AE-41FE-A13E-85ADD976F1BC}
+	EndGlobalSection
+EndGlobal
